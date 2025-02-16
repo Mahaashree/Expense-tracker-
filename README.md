@@ -1,1 +1,4 @@
 # Expense-tracker-
+
+EXPENSE TRACKER WEB APP CREATED WITH MERN STACK.
+ 
